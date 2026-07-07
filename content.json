@@ -1,19 +1,25 @@
 {
-  "site_name": "Muster Handwerk",
-  "headline": "Handwerk, auf das Sie sich verlassen können",
-  "subline": "Qualität aus Ihrer Region — zuverlässig, sauber und termintreu.",
-  "akzent": "#c8102e",
-  "branche": "Handwerk",
-  "stadt": "",
+  "site_name": "Franz Kolbitsch",
+  "branche": "Sanitär",
+  "stadt": "Böblingen",
   "telefon": "",
   "email": "",
-  "adresse": "",
+  "adresse": "Welfenstr. 20 71065 Sindelfingen (Ost)",
+  "akzent": "#1565a6",
+  "fotos": [
+    "/static/img/gal_ph1.svg",
+    "/static/img/gal_ph2.svg",
+    "/static/img/gal_ph3.svg"
+  ],
+  "hero_image": "/static/img/hero.png",
+  "headline": "Sanitär aus Böblingen",
+  "subline": "Qualität aus Ihrer Region — zuverlässig, sauber und termintreu.",
   "ueber_titel": "Über uns",
-  "ueber_text": "Seit Jahren Ihr verlässlicher Partner in der Region. Wir verbinden traditionelles Handwerk mit moderner Ausführung.",
+  "ueber_text": "Franz Kolbitsch ist Ihr verlässlicher Partner für Sanitär in Böblingen. Persönlich, gründlich und termintreu.",
   "leistungen": [
     {
       "titel": "Beratung",
-      "text": "Persönlich, ehrlich und auf Ihr Projekt zugeschnitten."
+      "text": "Persönlich und auf Ihr Projekt zugeschnitten."
     },
     {
       "titel": "Ausführung",
@@ -21,16 +27,39 @@
     },
     {
       "titel": "Service",
-      "text": "Auch nach Abschluss für Sie da — ein fester Ansprechpartner."
+      "text": "Auch nach Abschluss für Sie da."
     }
   ],
-  "fotos": [],
   "cta_text": "Jetzt unverbindlich anfragen",
-  "seo_title": "Muster Handwerk",
-  "seo_desc": "Qualität aus Ihrer Region.",
+  "seo_title": "Franz Kolbitsch — Sanitär Böblingen",
+  "seo_desc": "Sanitär aus Böblingen.Jetzt anfragen.",
   "jahr": 2026,
-  "hero_source": "template",
-  "hero_refresh_version": 7,
-  "hero_image": "/static/img/hero.png",
-  "hero_template": "sanitaer.jpg"
+  "rechner": {
+    "titel": "Kostenrechner",
+    "untertitel": "Unverbindliche Sofort-Schätzung",
+    "posten": [
+      {
+        "name": "Reparatur / Notdienst",
+        "ab": 120,
+        "bis": 450
+      },
+      {
+        "name": "Armatur / WC tauschen",
+        "ab": 200,
+        "bis": 800
+      },
+      {
+        "name": "Badsanierung",
+        "ab": 6000,
+        "bis": 20000
+      }
+    ],
+    "hinweis": "Grobe Orientierung — Ihr genaues, kostenloses Angebot erstellen wir nach kurzer Rücksprache."
+  },
+  "site_version": "1.0",
+  "font_display": "Fraunces",
+  "font_body": "Inter",
+  "taste_applied": true,
+  "about_image": "/static/img/about_ph.svg",
+  "placeholder_images": true
 }
